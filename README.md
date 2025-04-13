@@ -1,0 +1,3 @@
+This paper presents a literature review on electrochemical techniques used to determine the Electrochemical Active Surface Area (ECSA) of nickel-based catalysts for the Oxygen Evolution Reaction (OER) in alkaline media. It focuses on three primary methods: Cyclic Voltammetry (CV), Electrochemical Impedance Spectroscopy (EIS), and the Oxalate Method.
+
+The review highlights how surface pretreatment, oxide layer formation, and redox transitions affect catalyst performance and measurement accuracy. These insights are particularly relevant to hydrogen production via water electrolysis and the development of non-precious metal electrocatalysts.
